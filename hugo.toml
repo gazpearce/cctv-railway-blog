@@ -1,92 +1,55 @@
-baseURL = "https://cctv-railway-blog.up.railway.app/"
-locale = "en-gb"
-title = "CCTV Security UK | Expert Guides & Advice 2026"
-theme = "PaperMod"
-defaultContentLanguage = "en"
+baseURL = 'https://cctv-railway-blog.up.railway.app/'
+locale = 'en-gb'
+title = 'The Security Gazette'
+theme = 'broadsheet'
 enableRobotsTXT = true
-enableEmoji = true
-disableHugoGeneratorInject = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  env = "production"
-  title = "CCTV Security UK | Expert Guides & Advice 2026"
-  description = "Expert CCTV security guides for UK properties. Installation advice, technology comparisons, and compliance information from a certified installer."
-  keywords = ["CCTV UK", "security cameras", "surveillance", "commercial security", "CCTV installation"]
+  description = "Expert educational resource on UK CCTV security systems, regulations, and installation guides. Trusted information for homeowners, businesses, and security professionals."
+  tagline = "Authoritative Guidance on UK Security Surveillance"
+  showReadingTime = true
+  enableSearch = false
+  enableShareButtons = true
   author = "Gary Pearce"
-  DateFormat = "2 January 2006"
-  defaultTheme = "auto"
-  disableThemeToggle = false
-  ShowShareButtons = true
-  ShowReadingTime = true
-  displayFullLangName = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowRssButtonInSectionTermList = true
-  ShowAllPagesInArchive = true
-  MainSections = ["posts"]
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  comments = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = true
-  tocopen = true
-
-  [params.assets]
-    disableHLJS = true
-    disableFingerprinting = true
-
-  [params.label]
-    text = "CCTV Security UK"
-    icon = "📹"
-    iconHeight = 35
-
-  [params.homeInfoParams]
-    Title = "CCTV Security Guides & Expert Advice"
-    Content = "Practical CCTV guides, installation tips, and compliance advice for UK homes and businesses. Written by Gary Pearce — certified security installer."
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/gazpearce"
-
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:info@hardwire.uk"
+  
+  [[params.footerLinks]]
+    name = "All Guides"
+    url = "/posts/"
+  [[params.footerLinks]]
+    name = "Categories"
+    url = "/categories/"
+  [[params.footerLinks]]
+    name = "Tags"
+    url = "/tags/"
 
 [menu]
   [[menu.main]]
-    identifier = "guides"
     name = "All Guides"
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    identifier = "categories"
     name = "Categories"
     url = "/categories/"
     weight = 2
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-[privacy]
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-  [privacy.x]
-    disabled = false
-    enableDNT = true
-    simple = true
-  [privacy.instagram]
-    disabled = false
-    simple = true
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
 
 [sitemap]
   changefreq = "weekly"
@@ -96,18 +59,3 @@ disableHugoGeneratorInject = true
 [minify]
   disableXML = true
   minifyOutput = true
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.parser]
-      wrapStandAloneImageWithinParagraph = false
-      [markup.goldmark.parser.attribute]
-        block = true
-  [markup.highlight]
-    noClasses = false
-    codeFences = true
-    guessSyntax = true
-    lineNos = false
-    lineNumbersInTable = true

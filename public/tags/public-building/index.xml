@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public Building on CCTV Security UK | Expert Guides &amp; Advice 2026</title>
+    <title>Public Building on The Security Gazette</title>
     <link>https://cctv-railway-blog.up.railway.app/tags/public-building/</link>
-    <description>Recent content in Public Building on CCTV Security UK | Expert Guides &amp; Advice 2026</description>
+    <description>Recent content in Public Building on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cctv-railway-blog.up.railway.app/tags/public-building/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CCTV for Libraries and Community Centres UK 2026</title>
-      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-libraries-community-centres-uk-2026/</link>
+      <title>CCTV for Libraries and Community Centres — Public Building Security UK 2026</title>
+      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-libraries-community-centres-public-buildings-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-libraries-community-centres-uk-2026/</guid>
-      <description>CCTV solutions for libraries and community centres: balancing public access with security, bookable room monitoring, and council compliance.</description>
+      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-libraries-community-centres-public-buildings-2026/</guid>
+      <description>How to implement proportionate CCTV in libraries and community centres: balancing public access, safeguarding vulnerable users, and meeting local authority data protection obligations.</description>
     </item>
   </channel>
 </rss>

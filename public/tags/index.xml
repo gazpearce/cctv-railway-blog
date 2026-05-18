@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CCTV Security UK | Expert Guides &amp; Advice 2026</title>
+    <title>Tags on The Security Gazette</title>
     <link>https://cctv-railway-blog.up.railway.app/tags/</link>
-    <description>Recent content in Tags on CCTV Security UK | Expert Guides &amp; Advice 2026</description>
+    <description>Recent content in Tags on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
@@ -16,10 +16,31 @@
       <description></description>
     </item>
     <item>
+      <title>ANPR</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/anpr/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/anpr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anti-Piracy</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/anti-piracy/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/anti-piracy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anti-Social Behaviour</title>
       <link>https://cctv-railway-blog.up.railway.app/tags/anti-social-behaviour/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cctv-railway-blog.up.railway.app/tags/anti-social-behaviour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ANUK Compliance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/anuk-compliance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/anuk-compliance/</guid>
       <description></description>
     </item>
     <item>
@@ -44,17 +65,17 @@
       <description></description>
     </item>
     <item>
-      <title>Audience Surveillance</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/audience-surveillance/</link>
+      <title>ATM Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/atm-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/audience-surveillance/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/atm-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bank Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/bank-security/</link>
+      <title>Bank CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/bank-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/bank-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/bank-cctv/</guid>
       <description></description>
     </item>
     <item>
@@ -65,17 +86,17 @@
       <description></description>
     </item>
     <item>
-      <title>Boat CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/boat-cctv/</link>
+      <title>Boat Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/boat-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/boat-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/boat-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Building Society CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/building-society-cctv/</link>
+      <title>Building Society Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/building-society-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/building-society-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/building-society-security/</guid>
       <description></description>
     </item>
     <item>
@@ -93,10 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>Campus CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/campus-cctv/</link>
+      <title>Campus Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/campus-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/campus-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/campus-security/</guid>
       <description></description>
     </item>
     <item>
@@ -114,17 +135,31 @@
       <description></description>
     </item>
     <item>
-      <title>Coastal Surveillance</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/coastal-surveillance/</link>
+      <title>Coastal Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/coastal-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/coastal-surveillance/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/coastal-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Community Centre CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/community-centre-cctv/</link>
+      <title>Communal Areas</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/communal-areas/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/community-centre-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/communal-areas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Centre Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/community-centre-security/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/community-centre-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Safety</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/community-safety/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/community-safety/</guid>
       <description></description>
     </item>
     <item>
@@ -142,17 +177,10 @@
       <description></description>
     </item>
     <item>
-      <title>Council Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/council-security/</link>
+      <title>Counter-Terrorism</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/counter-terrorism/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/council-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Counter Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/counter-security/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/counter-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/counter-terrorism/</guid>
       <description></description>
     </item>
     <item>
@@ -160,6 +188,27 @@
       <link>https://cctv-railway-blog.up.railway.app/tags/crowd-management/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cctv-railway-blog.up.railway.app/tags/crowd-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DfT Compliance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/dft-compliance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/dft-compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drive-Off Prevention</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/drive-off-prevention/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/drive-off-prevention/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education Surveillance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/education-surveillance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/education-surveillance/</guid>
       <description></description>
     </item>
     <item>
@@ -177,10 +226,17 @@
       <description></description>
     </item>
     <item>
-      <title>Exhibition Surveillance</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/exhibition-surveillance/</link>
+      <title>Exhibition Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/exhibition-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/exhibition-surveillance/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/exhibition-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FCA Compliance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/fca-compliance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/fca-compliance/</guid>
       <description></description>
     </item>
     <item>
@@ -191,10 +247,10 @@
       <description></description>
     </item>
     <item>
-      <title>Flat CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/flat-cctv/</link>
+      <title>Flats CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/flats-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/flat-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/flats-cctv/</guid>
       <description></description>
     </item>
     <item>
@@ -202,13 +258,6 @@
       <link>https://cctv-railway-blog.up.railway.app/tags/forecourt-surveillance/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cctv-railway-blog.up.railway.app/tags/forecourt-surveillance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fuel Theft</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/fuel-theft/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/fuel-theft/</guid>
       <description></description>
     </item>
     <item>
@@ -230,6 +279,13 @@
       <link>https://cctv-railway-blog.up.railway.app/tags/healthcare-surveillance/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cctv-railway-blog.up.railway.app/tags/healthcare-surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heritage</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/heritage/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/heritage/</guid>
       <description></description>
     </item>
     <item>
@@ -261,17 +317,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hospital Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/hospital-security/</link>
+      <title>Hospital CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/hospital-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/hospital-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hub Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/hub-security/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/hub-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/hospital-cctv/</guid>
       <description></description>
     </item>
     <item>
@@ -289,10 +338,17 @@
       <description></description>
     </item>
     <item>
-      <title>Library Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/library-security/</link>
+      <title>Library CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/library-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/library-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/library-cctv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Licensing Compliance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/licensing-compliance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/licensing-compliance/</guid>
       <description></description>
     </item>
     <item>
@@ -303,24 +359,17 @@
       <description></description>
     </item>
     <item>
-      <title>Marina Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/marina-security/</link>
+      <title>Marina CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/marina-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/marina-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/marina-cctv/</guid>
       <description></description>
     </item>
     <item>
-      <title>Marine Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/marine-security/</link>
+      <title>Marine Surveillance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/marine-surveillance/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/marine-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multi-Tenant</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/multi-tenant/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/multi-tenant/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/marine-surveillance/</guid>
       <description></description>
     </item>
     <item>
@@ -331,10 +380,10 @@
       <description></description>
     </item>
     <item>
-      <title>NHS CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/nhs-cctv/</link>
+      <title>NHS Security</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/nhs-security/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/nhs-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/nhs-security/</guid>
       <description></description>
     </item>
     <item>
@@ -345,10 +394,10 @@
       <description></description>
     </item>
     <item>
-      <title>Patient Safety</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/patient-safety/</link>
+      <title>Patient Privacy</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/patient-privacy/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/patient-safety/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/patient-privacy/</guid>
       <description></description>
     </item>
     <item>
@@ -359,6 +408,13 @@
       <description></description>
     </item>
     <item>
+      <title>Perimeter Surveillance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/perimeter-surveillance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/perimeter-surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Petrol Station CCTV</title>
       <link>https://cctv-railway-blog.up.railway.app/tags/petrol-station-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
@@ -366,10 +422,10 @@
       <description></description>
     </item>
     <item>
-      <title>Private Accommodation</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/private-accommodation/</link>
+      <title>Planning Permission</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/planning-permission/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/private-accommodation/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/planning-permission/</guid>
       <description></description>
     </item>
     <item>
@@ -384,6 +440,27 @@
       <link>https://cctv-railway-blog.up.railway.app/tags/public-space-surveillance/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cctv-railway-blog.up.railway.app/tags/public-space-surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safeguarding</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/safeguarding/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/safeguarding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seasonal Surveillance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/seasonal-surveillance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/seasonal-surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SGSA Compliance</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/sgsa-compliance/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/sgsa-compliance/</guid>
       <description></description>
     </item>
     <item>
@@ -408,10 +485,10 @@
       <description></description>
     </item>
     <item>
-      <title>Student Housing CCTV</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/student-housing-cctv/</link>
+      <title>Student Accommodation CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/student-accommodation-cctv/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/student-housing-cctv/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/student-accommodation-cctv/</guid>
       <description></description>
     </item>
     <item>
@@ -443,6 +520,20 @@
       <description></description>
     </item>
     <item>
+      <title>UK GDPR</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/uk-gdpr/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/uk-gdpr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>University CCTV</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/university-cctv/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/university-cctv/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>University Halls</title>
       <link>https://cctv-railway-blog.up.railway.app/tags/university-halls/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
@@ -450,10 +541,10 @@
       <description></description>
     </item>
     <item>
-      <title>University Security</title>
-      <link>https://cctv-railway-blog.up.railway.app/tags/university-security/</link>
+      <title>Vessel Protection</title>
+      <link>https://cctv-railway-blog.up.railway.app/tags/vessel-protection/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/tags/university-security/</guid>
+      <guid>https://cctv-railway-blog.up.railway.app/tags/vessel-protection/</guid>
       <description></description>
     </item>
   </channel>
