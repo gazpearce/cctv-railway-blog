@@ -90,6 +90,7 @@ Shared estate CCTV covers communal areas but not individual units. Tenants respo
 <p style="margin:0 0 0.8rem 0;font-family:'Libre Baskerville',Georgia,serif;font-size:1.1rem;color:#1a2744;"><strong>🌐 More CCTV Resources</strong></p>
 <p style="margin:0 0 0.5rem 0;color:#444;font-size:0.9rem;">Explore more CCTV guides across my network:</p>
 <ul style="margin:0;padding-left:1.2rem;">
+<li style="margin-bottom:0.4rem;"><a href="https://cctvsystems.notion.site/CCTV-INSTALLATION-417ff4753be34878b2d2d3a9e647cd94" style="color:#8b1a1a;" target="_blank" rel="noopener">Notion Pillar Pages</a> <span style="color:#666;font-size:0.85rem;">— In-depth CCTV sector guides</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctv.mataroa.blog" style="color:#8b1a1a;" target="_blank" rel="noopener">Mataroa Blog</a> <span style="color:#666;font-size:0.85rem;">— CCTV installation articles</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctv.pika.page" style="color:#8b1a1a;" target="_blank" rel="noopener">Pika.page Blog</a> <span style="color:#666;font-size:0.85rem;">— CCTV system overviews</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctvsystems.bearblog.dev/blog" style="color:#8b1a1a;" target="_blank" rel="noopener">Bear Blog</a> <span style="color:#666;font-size:0.85rem;">— Technical CCTV guides</span></li>
