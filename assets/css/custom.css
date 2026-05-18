@@ -179,3 +179,4 @@
   padding-top: 1.5rem;
 }
 .footer-links a { color: var(--accent); }
+.footer p { font-size: 0.85rem; color: #666; }
