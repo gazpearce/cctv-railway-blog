@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cctv-railway-blog.up.railway.app/sitemap.xml
