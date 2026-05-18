@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garage Security on The Security Gazette</title>
-    <link>https://cctv-railway-blog.up.railway.app/tags/garage-security/</link>
+    <link>https://cctv-blog-production.up.railway.app/tags/garage-security/</link>
     <description>Recent content in Garage Security on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cctv-railway-blog.up.railway.app/tags/garage-security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cctv-blog-production.up.railway.app/tags/garage-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCTV for Petrol Stations and Garages — Forecourt Security UK 2026</title>
-      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-petrol-stations-garages-forecourt-security-2026/</link>
+      <link>https://cctv-blog-production.up.railway.app/posts/cctv-petrol-stations-garages-forecourt-security-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-petrol-stations-garages-forecourt-security-2026/</guid>
+      <guid>https://cctv-blog-production.up.railway.app/posts/cctv-petrol-stations-garages-forecourt-security-2026/</guid>
       <description>Complete CCTV compliance guide for UK petrol stations and garages: forecourt coverage, number plate recognition, drive-off prevention, and payment area security.</description>
     </item>
   </channel>

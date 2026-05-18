@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industrial Estate CCTV on The Security Gazette</title>
-    <link>https://cctv-railway-blog.up.railway.app/tags/industrial-estate-cctv/</link>
+    <link>https://cctv-blog-production.up.railway.app/tags/industrial-estate-cctv/</link>
     <description>Recent content in Industrial Estate CCTV on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cctv-railway-blog.up.railway.app/tags/industrial-estate-cctv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cctv-blog-production.up.railway.app/tags/industrial-estate-cctv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCTV for Industrial Estates and Business Parks — Shared Security UK 2026</title>
-      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-industrial-estates-business-parks-shared-security-2026/</link>
+      <link>https://cctv-blog-production.up.railway.app/posts/cctv-industrial-estates-business-parks-shared-security-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-industrial-estates-business-parks-shared-security-2026/</guid>
+      <guid>https://cctv-blog-production.up.railway.app/posts/cctv-industrial-estates-business-parks-shared-security-2026/</guid>
       <description>CCTV strategies for industrial estates and business parks: shared perimeter security, unit-level access control, landlord responsibilities, and tenant data protection considerations.</description>
     </item>
   </channel>

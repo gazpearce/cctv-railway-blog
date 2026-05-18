@@ -1,4 +1,4 @@
-baseURL = 'https://cctv-railway-blog.up.railway.app/'
+baseURL = 'https://cctv-blog-production.up.railway.app/'
 locale = 'en-gb'
 title = 'The Security Gazette'
 theme = 'broadsheet'

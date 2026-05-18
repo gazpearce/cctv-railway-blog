@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communal Areas on The Security Gazette</title>
-    <link>https://cctv-railway-blog.up.railway.app/tags/communal-areas/</link>
+    <link>https://cctv-blog-production.up.railway.app/tags/communal-areas/</link>
     <description>Recent content in Communal Areas on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cctv-railway-blog.up.railway.app/tags/communal-areas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cctv-blog-production.up.railway.app/tags/communal-areas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCTV for Apartment Blocks and Flats — Legal Requirements and Best Practice Guide 2026</title>
-      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-apartment-blocks-flats-legal-guide-2026/</link>
+      <link>https://cctv-blog-production.up.railway.app/posts/cctv-apartment-blocks-flats-legal-guide-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-apartment-blocks-flats-legal-guide-2026/</guid>
+      <guid>https://cctv-blog-production.up.railway.app/posts/cctv-apartment-blocks-flats-legal-guide-2026/</guid>
       <description>Essential guidance on CCTV installation in apartment blocks and flats: planning permission, communal area coverage, data protection obligations, and resident privacy rights under UK law.</description>
     </item>
   </channel>

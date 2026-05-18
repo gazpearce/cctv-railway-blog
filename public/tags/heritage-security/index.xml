@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heritage Security on The Security Gazette</title>
-    <link>https://cctv-railway-blog.up.railway.app/tags/heritage-security/</link>
+    <link>https://cctv-blog-production.up.railway.app/tags/heritage-security/</link>
     <description>Recent content in Heritage Security on The Security Gazette</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cctv-railway-blog.up.railway.app/tags/heritage-security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cctv-blog-production.up.railway.app/tags/heritage-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCTV for Listed Buildings and Heritage Sites — Conservation-Compliant Security UK 2026</title>
-      <link>https://cctv-railway-blog.up.railway.app/posts/cctv-listed-buildings-heritage-sites-conservation-2026/</link>
+      <link>https://cctv-blog-production.up.railway.app/posts/cctv-listed-buildings-heritage-sites-conservation-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cctv-railway-blog.up.railway.app/posts/cctv-listed-buildings-heritage-sites-conservation-2026/</guid>
+      <guid>https://cctv-blog-production.up.railway.app/posts/cctv-listed-buildings-heritage-sites-conservation-2026/</guid>
       <description>How to install CCTV in listed buildings and heritage sites without damaging historic fabric: conservation-compliant mounting, discreet camera options, and listed building consent procedures.</description>
     </item>
   </channel>
