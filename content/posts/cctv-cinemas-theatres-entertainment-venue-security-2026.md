@@ -91,7 +91,6 @@ Yes. All cinemas and theatres using CCTV that captures identifiable individuals 
 <ul style="margin:0;padding-left:1.2rem;">
 <li style="margin-bottom:0.4rem;"><a href="https://cctvsystems.notion.site/CCTV-INSTALLATION-417ff4753be34878b2d2d3a9e647cd94" style="color:#8b1a1a;" target="_blank" rel="noopener">Notion Pillar Pages</a> <span style="color:#666;font-size:0.85rem;">— In-depth CCTV sector guides</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctv.mataroa.blog" style="color:#8b1a1a;" target="_blank" rel="noopener">Mataroa Blog</a> <span style="color:#666;font-size:0.85rem;">— CCTV installation articles</span></li>
-<li style="margin-bottom:0.4rem;"><a href="https://cctv.pika.page" style="color:#8b1a1a;" target="_blank" rel="noopener">Pika.page Blog</a> <span style="color:#666;font-size:0.85rem;">— CCTV system overviews</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctvsystems.bearblog.dev/blog" style="color:#8b1a1a;" target="_blank" rel="noopener">Bear Blog</a> <span style="color:#666;font-size:0.85rem;">— Technical CCTV guides</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctv-blog-render.onrender.com" style="color:#8b1a1a;" target="_blank" rel="noopener">Render Blog</a> <span style="color:#666;font-size:0.85rem;">— Sector-specific CCTV advice</span></li>
 <li style="margin-bottom:0.4rem;"><a href="https://cctv-deno-blog.gazpearce.deno.net" style="color:#8b1a1a;" target="_blank" rel="noopener">Deno Blog</a> <span style="color:#666;font-size:0.85rem;">— Buyer guides and comparisons</span></li>
